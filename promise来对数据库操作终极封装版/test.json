@@ -1,0 +1,19 @@
+{
+  "userLists": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "小明",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "username": "张三",
+      "password": "b123"
+    }
+  ]
+}
